@@ -1,6 +1,6 @@
 # Express Backend Template
 
-A simple express backend using betterauth for authentication and prisma for DB management.
+A simple express backend template using betterauth for authentication and prisma for DB management.
 
 To create a db in prisma run:
 ```bash
